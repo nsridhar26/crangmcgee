@@ -1,0 +1,3 @@
+API_KEY="API FOR WEATHER"
+API_CRIME_LA="API for LA Crime"
+ect
